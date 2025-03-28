@@ -1,0 +1,10 @@
+langchain_google_genai
+langchain_core
+pydantic
+langgraph
+langchain-openai
+langchain-core
+pydantic
+python-dotenv
+tavily-python
+langgraph-cli[inmem]
