@@ -36,6 +36,10 @@ The agent uses a multi-step process orchestrated by LangGraph:
     - Updates the state with the `extracted_info`.
     - Formats the final extracted data into a CSV format within an AI message for easy copying.
 
+## Demo
+
+https://github.com/amirkeiser/sourcing-agent/assets/demo.mp4
+
 ## Setup and Running
 
 1.  **Clone the Repository:**
