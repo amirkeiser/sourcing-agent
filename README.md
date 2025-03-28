@@ -2,6 +2,10 @@
 
 This project implements a LangGraph agent designed to automate the discovery and basic information gathering of bathroom installers in specific UK locations.
 
+
+https://github.com/user-attachments/assets/e2da9d4a-86fc-4ddd-8dc5-cfee7d1220e1
+
+
 ## How it Works
 
 The agent uses a multi-step process orchestrated by LangGraph:
@@ -35,10 +39,6 @@ The agent uses a multi-step process orchestrated by LangGraph:
       - Assigns a confidence score to the extracted information.
     - Updates the state with the `extracted_info`.
     - Formats the final extracted data into a CSV format within an AI message for easy copying.
-
-## Demo
-
-https://github.com/amirkeiser/sourcing-agent/assets/demo.mp4
 
 ## Setup and Running
 
